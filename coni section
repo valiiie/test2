@@ -1,0 +1,91 @@
+<<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>ma super page web</title>
+</head>
+<body>
+	<h1>Page principale</h1>
+
+	<h2>Tableau dans HTML</h2>
+
+	<table border="2">
+		<tr>
+			<th>Prénom</th>
+			<th>Nom</th>
+			<th>Courriel</th>
+		</tr>
+		<tr>
+			<td>valie</td>
+			<td>laplusbelle</td>
+			<td>valie.zizi@ece.fr</td>
+
+		</tr>
+		<tr>
+			<td>Alex</td>
+			<td>Fou du bus</td>
+			<td>axel.fou@ece.fr</td>
+		</tr>
+
+	</table>
+
+	<h2>Affichez une image dans HTML</h2>
+	<a href="https://fr.victoriassecret.com/fr/?cm_mmc=SEM-_-MicrosoftAds-_-FR_FR_Brand_Pure-_-Pure&&msclkid=3dd85b8d3a3b1bb9afe93c9dd8e522c0&utm_source=bing&utm_medium=cpc&utm_campaign=FR_FR_Brand_Pure&utm_term=Victoria%27s%20Secret&utm_content=Pure&gclid=3dd85b8d3a3b1bb9afe93c9dd8e522c0&gclsrc=3p.ds">
+		<img src="anya.JPG" alt="Anya trop belle" height="500" width="720">
+	</a>
+
+	<h2>Formulaire dans HTML</h2>
+	<form>
+		<table border="1">
+			<tr>
+				<td>Identifiant</td>
+				<td><input type="text" name="identifiant"></td>
+			</tr>
+			<tr>
+				<td>Mot de passe</td>
+				<td><input type="password" name="passw"></td>
+			</tr>
+			<tr>
+				<td colspan="2" align="center">
+					<input type="submit" name="bouton1" value="Soumettre">
+				</td>
+			</tr>
+		</table>
+	</form>
+
+	<h2>Liste non ordonnée dans HTML</h2>
+	<ul>
+		<li><a href="#">Accueil</a></li>
+		<li><a href="#">Contenue</a></li>
+		<li><a href="#">Paramètres</a></li>
+		<li><a href="#">Contact</a></li>
+		<li><a href="#">A propos</a></li>
+	</ul>
+
+	<h2>Liste ordonnée dans HTML</h2>
+	<h4>Quels cadeaux pour mon papa à son anniversaire?</h4>
+	<ol>
+		<li>CACA</li>
+		<li>CACA</li>
+		<li>CACA</li>
+		<li>CACA</li>
+	</ol>
+
+	<h2>Footer dans HTML</h2>
+	<footer>
+		<small>
+			<p>
+				concu par : coni94 | avec l'aide de mon équipe (axel CACA et valie PIPI)
+				Copyright &copy; 2024 <br>
+				Contact : <a href ="mailto:nicolas.lumet@edu.ece.fr">nicolas.lumet@edu.ece.fr</a>
+			</p>
+		</small>
+	</footer>
+
+
+	<p>Cliquez <a href="contact.html">ici</a> pour aller à la page de conatct</p>
+	
+</body>
+</html>
+
