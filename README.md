@@ -16,3 +16,6 @@ elle ne sait pas ce qu'elle rate celle la
 
 Comment pecho une polonaise :
 https://www.russiankisses.com/blog/comment-draguer-une-femme-polonaise/
+
+Est-ce que je suis gay :
+https://www.onsexprime.fr/les-genres-et-les-orientations/quelle-est-mon-orientation-sexuelle/comment-savoir-si-je-suis-gay-lesbienne-bi-ou-hetero-ou-autre
