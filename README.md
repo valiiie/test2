@@ -22,3 +22,4 @@ https://www.onsexprime.fr/les-genres-et-les-orientations/quelle-est-mon-orientat
 
 Est-ce que je suis raciste ? :
 https://www.idrlabs.com/fr/racisme/test.php
+<h2>Pas besoin du site, je suis raciste.</h2>
