@@ -13,3 +13,6 @@ elle ne sait pas ce qu'elle rate celle la
 		<img src="meuf.jpeg" alt="FEMELLE ARGGGGGGGGGGGG " height="300" width="1200">
 	</a>
 </body>
+
+Comment pecho une polonaise :
+https://www.russiankisses.com/blog/comment-draguer-une-femme-polonaise/
