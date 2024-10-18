@@ -26,3 +26,4 @@ https://www.idrlabs.com/fr/racisme/test.php
 
 test de pureté
 https://www.testdepurete.com/
+Résultats : Axxxxx 44%		Coni 47%		Valie 52%
